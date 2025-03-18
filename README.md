@@ -7,9 +7,6 @@ Simple QrCode
 [![License](https://poser.pugx.org/simplesoftwareio/simple-qrcode/license.svg)](https://packagist.org/packages/simplesoftwareio/simple-qrcode)
 [![Total Downloads](https://poser.pugx.org/simplesoftwareio/simple-qrcode/downloads.svg)](https://packagist.org/packages/simplesoftwareio/simple-qrcode)
 
-## [Deutsch](https://www.simplesoftware.io/#/docs/simple-qrcode/de) | [Español](https://www.simplesoftware.io/#/docs/simple-qrcode/es) | [Français](https://www.simplesoftware.io/#/docs/simple-qrcode/fr) | [Italiano](https://www.simplesoftware.io/#/docs/simple-qrcode/it) | [Português](https://www.simplesoftware.io/#/docs/simple-qrcode/pt-br) | [Русский](https://www.simplesoftware.io/#/docs/simple-qrcode/ru) | [日本語](https://www.simplesoftware.io/#/docs/simple-qrcode/ja) | [한국어](https://www.simplesoftware.io/#/docs/simple-qrcode/kr) | [हिंदी](https://www.simplesoftware.io/#/docs/simple-qrcode/hi) | [简体中文](https://www.simplesoftware.io/#/docs/simple-qrcode/zh-cn) | [العربية](https://www.simplesoftware.io/#/docs/simple-qrcode/ar)
-
-Language files are currently out of date.  We need volunteers to upgrade them to v4!  Please submit a PR request!
 
 ## Introduction
 Simple QrCode is an easy to use wrapper for the popular Laravel framework based on the great work provided by [Bacon/BaconQrCode](https://github.com/Bacon/BaconQrCode).  We created an interface that is familiar and easy to install for Laravel users.
@@ -22,19 +19,9 @@ Documentation for Simple QrCode can be found on our [website.](http://www.simple
 
 ![Example 1](docs/imgs/example-1.png) ![Example 2](docs/imgs/example-2.png)
 
-## Use Cases
-<p align="center">
-  <a href="https://www.rsvpify.com">
-  	<img width="300" src="https://rsvpify.com/wp-content/uploads/2017/03/rsvpify-logo-header-rsvp.png">
-  </a>
-</p>
-<p align="center">
-  <a href="https://rsvpify.com/sell-tickets">Platform to sell tickets online</a>
-</p>
-
 ## Contributing
 
-Please submit all issues and pull requests to the [simplesoftwareio/simple-qrcode](https://github.com/simplesoftwareio/simple-qrcode) repository on the develop branch!
+Please submit all issues and pull requests to the [asikam/simple-qrcode](https://github.com/asikam/simple-qrcode) repository on the develop branch!
 
 ## License
 
