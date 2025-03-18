@@ -1,6 +1,6 @@
 <?php
 
-namespace SimpleSoftwareIO\QrCode;
+namespace Asikam\QrCode;
 
 use BaconQrCode\Common\ErrorCorrectionLevel;
 use BaconQrCode\Encoder\Encoder;
@@ -29,7 +29,7 @@ use BaconQrCode\Renderer\RendererStyle\RendererStyle;
 use BaconQrCode\Writer;
 use BadMethodCallException;
 use InvalidArgumentException;
-use SimpleSoftwareIO\QrCode\DataTypes\DataTypeInterface;
+use Asikam\QrCode\DataTypes\DataTypeInterface;
 
 class Generator
 {

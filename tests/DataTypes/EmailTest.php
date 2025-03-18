@@ -1,7 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use SimpleSoftwareIO\QrCode\DataTypes\Email;
+use Asikam\QrCode\DataTypes\Email;
 
 class EmailTest extends TestCase
 {

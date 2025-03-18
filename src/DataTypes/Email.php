@@ -1,6 +1,6 @@
 <?php
 
-namespace SimpleSoftwareIO\QrCode\DataTypes;
+namespace Asikam\QrCode\DataTypes;
 
 use BaconQrCode\Exception\InvalidArgumentException;
 

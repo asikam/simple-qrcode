@@ -1,7 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use SimpleSoftwareIO\QrCode\DataTypes\PhoneNumber;
+use Asikam\QrCode\DataTypes\PhoneNumber;
 
 class PhoneNumberTest extends TestCase
 {

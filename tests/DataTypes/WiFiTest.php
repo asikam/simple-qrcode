@@ -1,7 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use SimpleSoftwareIO\QrCode\DataTypes\WiFi;
+use Asikam\QrCode\DataTypes\WiFi;
 
 class WiFiTest extends TestCase
 {
