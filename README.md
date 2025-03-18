@@ -11,10 +11,6 @@ Simple QrCode
 ## Introduction
 Simple QrCode is an easy to use wrapper for the popular Laravel framework based on the great work provided by [Bacon/BaconQrCode](https://github.com/Bacon/BaconQrCode).  We created an interface that is familiar and easy to install for Laravel users.
 
-## Examples
-
-![Example 1](docs/imgs/example-1.png) ![Example 2](docs/imgs/example-2.png)
-
 ## Contributing
 
 Please submit all issues and pull requests to the [asikam/simple-qrcode](https://github.com/asikam/simple-qrcode) repository on the develop branch!
