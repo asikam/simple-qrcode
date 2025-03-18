@@ -2,7 +2,6 @@
     "name": "asikam/simple-qrcode",
     "description": "Simple QrCode is a QR code generator made for Laravel.",
     "keywords": ["qrcode", "laravel", "simple", "generator", "wrapper"],
-    "homepage": "",
     "license" : "MIT",
     "authors": [
         {
@@ -25,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SimpleSoftwareIO\\QrCode\\": "src"
+            "Asikam\\QrCode\\": "src"
         }
     },
     "scripts": {
@@ -34,10 +33,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "SimpleSoftwareIO\\QrCode\\QrCodeServiceProvider"
+                "Asikam\\QrCode\\QrCodeServiceProvider"
             ],
             "aliases": {
-                "QrCode": "SimpleSoftwareIO\\QrCode\\Facades\\QrCode"
+                "QrCode": "Asikam\\QrCode\\Facades\\QrCode"
             }
         }
     }

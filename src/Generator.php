@@ -193,7 +193,7 @@ class Generator
      *
      * @param string $filepath
      * @param float $percentage
-     * @param SimpleSoftwareIO\QrCode\boolean|bool $absolute
+     * @param Asikam\Qrcode\boolean|bool $absolute
      * @return Generator
      */
     public function merge(string $filepath, float $percentage = .2, bool $absolute = false): self
@@ -571,7 +571,7 @@ class Generator
     {
         $method = ucfirst($method);
 
-        $class = "SimpleSoftwareIO\QrCode\DataTypes\\".$method;
+        $class = "Asikam\QrCode\DataTypes\\".$method;
 
         return $class;
     }
