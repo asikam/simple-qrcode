@@ -1,7 +1,6 @@
 Simple QrCode
 ========================
-
-[![Unit Tests](https://github.com/asikam/simple-qrcode/actions/workflows/php.yml/badge.svg?branch=develop)](https://github.com/asikam/simple-qrcode/actions/workflows/php.yml)
+[![Unit Tests](https://github.com/asikam/simple-qrcode/actions/workflows/php.yml/badge.svg)](https://github.com/asikam/simple-qrcode/actions/workflows/php.yml)
 [![Latest Stable Version](https://poser.pugx.org/asikam/simple-qrcode/v/stable.svg)](https://packagist.org/packages/asikam/simple-qrcode)
 [![Latest Unstable Version](https://poser.pugx.org/asikam/simple-qrcode/v/unstable.svg)](https://packagist.org/packages/asikam/simple-qrcode)
 [![License](https://poser.pugx.org/asikam/simple-qrcode/license.svg)](https://packagist.org/packages/asikam/simple-qrcode)
