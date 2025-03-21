@@ -7,7 +7,6 @@ Simple QrCode
 [![License](https://poser.pugx.org/asikam/simple-qrcode/license.svg)](https://packagist.org/packages/asikam/simple-qrcode)
 [![Total Downloads](https://poser.pugx.org/asikam/simple-qrcode/downloads.svg)](https://packagist.org/packages/asikam/simple-qrcode)
 
-
 ## Introduction
 Simple QrCode is an easy to use wrapper for the popular Laravel framework based on the great work provided by [Bacon/BaconQrCode](https://github.com/Bacon/BaconQrCode).  We created an interface that is familiar and easy to install for Laravel users.
 
